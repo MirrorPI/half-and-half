@@ -1,0 +1,1 @@
+{"name": "HalfAndHalf.Runtime", "rootNamespace": "HalfAndHalf", "references": ["HalfAndHalf.Core", "Unity.TextMeshPro", "Unity.InputSystem", "Unity.ugui", "Apple.GameKit", "Apple.Core", "Unity.Burst", "Unity.Localization", "Unity.ResourceManager"]}

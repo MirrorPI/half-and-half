@@ -1,0 +1,1 @@
+{"name":"HalfAndHalf.PlayMode","references":["HalfAndHalf.Core","HalfAndHalf.Runtime","Unity.TextMeshPro","Unity.InputSystem","Unity.ugui"],"optionalUnityReferences":["TestAssemblies"]}

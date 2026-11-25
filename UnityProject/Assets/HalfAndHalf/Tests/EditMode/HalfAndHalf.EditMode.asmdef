@@ -1,0 +1,1 @@
+{"name":"HalfAndHalf.EditMode","references":["HalfAndHalf.Core","HalfAndHalf.Runtime"],"includePlatforms":["Editor"],"optionalUnityReferences":["TestAssemblies"]}
